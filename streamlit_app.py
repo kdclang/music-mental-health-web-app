@@ -132,7 +132,7 @@ st.set_page_config(page_title = 'Music and Mental Health Dashboard',
 )
 
 
-st.title("Music and Mental Health Dashboard")
+st.title("Music & Mental Health Dashboard")
 df = get_data()
 
 with st.sidebar:
